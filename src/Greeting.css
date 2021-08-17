@@ -1,0 +1,10 @@
+.greeting{
+    color: white;
+    line-height: 25px;
+}
+.greeting ul li{
+    display: block;
+}
+h1{
+    margin-bottom: 10px;
+}

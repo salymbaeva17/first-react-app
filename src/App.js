@@ -1,15 +1,15 @@
 import React from "react"
-import Greeting from "./Greeting"
 import Header from "./Header";
 import Main from "./Main";
+import Footer from "./Footer";
 
 
 function App() {
     return (
         <>
             <Header />
-            <Greeting />
             <Main />
+            <Footer />
         </>
     )
 }

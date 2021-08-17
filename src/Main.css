@@ -1,0 +1,17 @@
+.main__container{
+    background-color: #3e16e2;
+    height: calc(100vh - 200px);
+
+
+}
+p{
+    padding-top: 20px;
+}
+.main__box{
+    height: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    font-family: sans-serif;
+    vertical-align: center;
+}
